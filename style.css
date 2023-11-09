@@ -252,6 +252,7 @@ body._touch .menu__link {
     body{
         box-sizing: border-box;
         text-align: center;
+        display: flex;
     }
     .menu__icon {
         z-index: 5;
